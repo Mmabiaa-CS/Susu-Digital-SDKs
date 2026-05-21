@@ -869,7 +869,7 @@ const customer = await processWithRateLimit(() =>
 
 ### Contributing
 
-We welcome contributions! Please see our [Contributing Guide](https://github.com/susudigital/js-sdk/blob/main/CONTRIBUTING.md) for details.
+We welcome contributions! Please see our [Contributing Guide](https://github.com/Mmabiaa-CS/susudigital-sdks/blob/main/CONTRIBUTING.md) for details.
 
 ---
 
