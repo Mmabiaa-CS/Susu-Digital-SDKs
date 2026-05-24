@@ -1105,7 +1105,7 @@ Customer customer = client.customers().create(request);
 
 ### Contributing
 
-We welcome contributions to the Java SDK! Please see our [Contributing Guide](https://github.com/susudigital/java-sdk/blob/main/CONTRIBUTING.md) for details.
+We welcome contributions to the Java SDK! Please see our [Contributing Guide](https://github.com/Mmabiaa-CS/susudigital-sdks/blob/main/CONTRIBUTING.md) for details.
 
 ---
 

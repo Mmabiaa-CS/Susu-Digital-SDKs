@@ -1330,7 +1330,7 @@ if errors.As(err, &validationErr) {
 
 ### Contributing
 
-We welcome contributions to the Go SDK! Please see our [Contributing Guide](https://github.com/susudigital/go-sdk/blob/main/CONTRIBUTING.md) for details.
+We welcome contributions to the Go SDK! Please see our [Contributing Guide](https://github.com/Mmabiaa-CS/susudigital-sdks/blob/main/CONTRIBUTING.md) for details.
 
 ---
 
